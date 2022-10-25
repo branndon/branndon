@@ -4,7 +4,7 @@ I'm Branndon Arruda, and I'm a Software Engineer focused in Frontend.
 
 I'm from Brazil, and I'm currently working for Remessa Online, and I'm live in Praia Grande - São Paulo.
 
-[![Linkedin: Philipe](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/almeidaphilipe/)](https://www.linkedin.com/in/almeidaphilipe/](https://www.linkedin.com/in/branndon-arruda/)) 
+[![Linkedin: Branndon](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/branndon-arruda/)](https://www.linkedin.com/in/branndon-arruda/)
 
 
 ## ⚡ Technologies
